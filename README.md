@@ -4,12 +4,8 @@
 </p>
 
 > [!CAUTION]
-> The only official places to download Fishstrap are this GitHub repository and [fishstrap.app](https://fishstrap.app). Any other websites offering downloads or claiming to be us are not controlled by us (eg. fishstrap.org, fishstrap.com). Do not download from them.
-
-Fishstrap is a bootstrapper for Roblox that aims to provide additional features to compliment your experience. Fishstrap only supports computers running Windows 10 and above, and we do not have any plans to port Fishstrap to any other operating systems.
-
-Found any bugs? [Submit an issue](https://github.com/fishstrap/fishstrap/issues/new/choose) or create a bug report in our [Discord server](https://discord.gg/SRs5zb9BJd).
-
+> The only official places to download SitLabs are this GitHub repository.
+SitLabs is a bootstrapper for Roblox that aims to provide additional features to compliment your experience. SitLabs only supports computers running Windows 10 and above, and we do not have any plans to port SitLabs to any other operating systems.
 Download the latest release [here][repo-latest]
 
 <div align="center">
