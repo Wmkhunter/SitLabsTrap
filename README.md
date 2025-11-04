@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="https://github.com/SitLabsTrap/raw/main/Sitlabs.png" width="820">
-    <img src="https://github.com/SitLabsTrap/raw/main/Sitlabs.png" width="820">
+    <img src="https://raw.githubusercontent.com/SitLabsTrap/main/Sitlabs.png" width="820">
+    <img src="https://raw.githubusercontent.com/SitLabsTrap/main/Sitlabs.png" width="820">
 </p>
 
 > [!CAUTION]
