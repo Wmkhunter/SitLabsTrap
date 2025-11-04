@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="https://github.com/fishstrap/fishstrap/raw/main/Images/Bloxstrap-full-dark.png#gh-dark-mode-only" width="820">
-    <img src="https://github.com/fishstrap/fishstrap/raw/main/Images/Bloxstrap-full-light.png#gh-light-mode-only" width="820">
+    <img src="https://github.com/SitLabsTrap/raw/main/Bloxstrap-Sitlabs.png" width="820">
+    <img src="https://github.com/SitLabsTrap/raw/main/Sitlabs.png" width="820">
 </p>
 
 > [!CAUTION]
