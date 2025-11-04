@@ -38,7 +38,7 @@ Download the latest release [here][repo-latest]
 And many more!
 
 <div align="center">
-    <img src="https://www.fishstrap.app/img/Showcase.webp" width="420">
+    <img src="[https://www.fishstrap.app/img/Showcase.webp](https://chatgpt.com/backend-api/estuary/content?id=file_000000002e08722fb1f6a263e864da28&ts=489523&p=fs&cid=1&sig=1855485564be906a45f5a5f667b1f46ce9ca363956b1d98a610c7d6a2106e83c&v=0)" width="420">
 </div>
 
 [badge-repo-license]:    https://img.shields.io/github/license/fishstrap/fishstrap?style=flat-square
@@ -46,12 +46,8 @@ And many more!
 [badge-repo-downloads]:  https://img.shields.io/github/downloads/fishstrap/fishstrap/latest/total?style=flat-square&color=981bfe
 [badge-repo-latest]:     https://img.shields.io/github/v/release/fishstrap/fishstrap?style=flat-square&color=7a39fb
 [badge-repo-stars]:      https://img.shields.io/github/stars/fishstrap/fishstrap?style=flat-square&color=dd9900
-
-[badge-discord]: https://img.shields.io/discord/1299397064165429360?style=flat-square&logo=discord&logoColor=white&logoSize=auto&label=discord&color=4d3dff
-
 [repo-license]:  https://github.com/fishstrap/fishstrap/blob/main/LICENSE
 [repo-actions]:  https://github.com/fishstrap/fishstrap/actions
 [repo-releases]: https://github.com/fishstrap/fishstrap/releases
 [repo-latest]:   https://github.com/fishstrap/fishstrap/releases/latest
 
-[discord-invite]:  https://discord.gg/SRs5zb9BJd
