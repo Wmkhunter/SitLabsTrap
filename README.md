@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/SitLabsTrap/main/Sitlabs.png" width="820">
-    <img src="https://raw.githubusercontent.com/SitLabsTrap/main/Sitlabs.png" width="820">
+    <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000002e08722fb1f6a263e864da28&ts=489523&p=fs&cid=1&sig=1855485564be906a45f5a5f667b1f46ce9ca363956b1d98a610c7d6a2106e83c&v=0" width="820">
+    <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000002e08722fb1f6a263e864da28&ts=489523&p=fs&cid=1&sig=1855485564be906a45f5a5f667b1f46ce9ca363956b1d98a610c7d6a2106e83c&v=0" width="820">
 </p>
 
 > [!CAUTION]
