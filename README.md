@@ -1,6 +1,5 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/Wmkhunter/SitLabsTrap/main/images/Sitlabs.png" width="820">
-    <img src="https://raw.githubusercontent.com/Wmkhunter/SitLabsTrap/main/images/Sitlabs.png" width="820">
 </p>
 
 > [!CAUTION]
@@ -23,5 +22,5 @@ Download the latest release [here][repo-latest]
 And many more!
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Wmkhunter/SitLabsTrap/main/Sitlabs.png" width="420">
+    <img src="https://raw.githubusercontent.com/Wmkhunter/SitLabsTrap/main/Sitlabs.png" width="820">
 </div>
